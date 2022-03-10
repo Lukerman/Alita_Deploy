@@ -1,7 +1,7 @@
 {
     "name": "Alita v1",
     "description": "Alita is a WhatsApp Helper Bot Written By @MRwolfia",
-    "logo": "https://raw.githubusercontent.com/MRwolfia/Alita/master/src/image/Alita.jpg?token=GHSAT0AAAAAABPR4X2NIYXUIZ4V5LOTPV3MYQ5ZCCQ",
+    "logo": "https://imgwebhost.pages.dev/Alita.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
     "repository": "https://github.com/MRwolfia/Alita",
     "website":   "https://github.com/MRwolfia",
