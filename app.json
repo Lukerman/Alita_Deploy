@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "Voice", "Alita", "bot", "api", "ai"],
     "repository": "https://github.com/MRwolfia/Alita",
     "website":   "https://alita-home.pages.dev/",
-    "success_url": "https://github.com/MRwolfia",
+    "success_url": "https://alita-home.pages.dev/",
     "stack": "container",
     "env": {
         "SESSION": {
