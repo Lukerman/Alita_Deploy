@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "SESSION": {
-            "description": "Enter the copied SESSION here ( Copied code starting with Alita///eyJj & ending with 9In0= ).",
+            "description": "Enter the copied SESSION here ( Copied code starting with Alita---eyJj & ending with 9In0= ).",
             "required": true
         },
         "SUDO": {
